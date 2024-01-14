@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tashh93
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning html, CSS and JavaScript 
-- 💞️ I’m looking to collaborate on anything that helps me build. 
+- 🌱 I’m currently learning JavaScript && React
+- 💞️ I’m looking to collaborate on anything that helps me enhance my skills and possibly job placement. 
 - 📫 How to reach me ask 🤷🏾‍♀️
 
 <!---
